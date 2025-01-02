@@ -86,9 +86,3 @@ npm run dev
 2. Make small, focused commits
 3. Write descriptive commit messages
 4. Create pull requests for review
-
-## Resources
-
-- [Project Documentation](docs/)
-- [Development Setup](docs/setup.md)
-- [Contributing Guidelines](CONTRIBUTING.md)
