@@ -64,7 +64,7 @@ Develop a **Streaming Platform** using the MERN stack (MongoDB, Express.js, Reac
 1. Clone the repository
 
 ```bash
-git clone https://github.com/username/sloake.git
+git clone git@github.com:Learnathon-By-Geeky-Solutions/sloake.git
 cd sloake
 ```
 
