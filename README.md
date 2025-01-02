@@ -1,10 +1,12 @@
 # sloake
 
+A streaming platform using the MERN stack (MongoDB, Express.js, React, Node.js) where users can watch live streams, discover content and interact with creators and other viewers.
+
 ## Team Members
 
-- TanRai (Team Leader)
-- mhtafhim
-- MMALI3287
+- Tanvir Raiyan - TanRai (Team Leader)
+- Tafhim - mhtafhim
+- Musaddique Ali - MMALI3287
 
 ## Mentor
 
@@ -51,9 +53,32 @@ Develop a **Streaming Platform** using the MERN stack (MongoDB, Express.js, Reac
 
 ## Getting Started
 
+### Prerequisites
+
+- Node.js >= 14.0.0
+- MongoDB >= 4.4
+- PostgreSQL >= 13
+
+### Installation
+
 1. Clone the repository
+
+```bash
+git clone https://github.com/username/sloake.git
+cd sloake
+```
+
 2. Install dependencies
+
+```bash
+npm install
+```
+
 3. Start development
+
+```bash
+npm run dev
+```
 
 ## Development Guidelines
 
