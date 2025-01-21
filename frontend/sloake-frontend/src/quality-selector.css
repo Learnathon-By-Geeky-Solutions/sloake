@@ -1,0 +1,46 @@
+.vjs-quality-selector .vjs-menu-button {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.vjs-quality-selector .vjs-icon-placeholder {
+  font-family: "VideoJS";
+  font-weight: normal;
+  font-style: normal;
+}
+
+.vjs-quality-selector .vjs-icon-placeholder::before {
+  content: "\f110";
+}
+
+.vjs-quality-selector .vjs-menu {
+  left: -10em;
+}
+
+.vjs-quality-selector .vjs-menu-content {
+  padding: 0;
+  width: 10em;
+}
+
+.vjs-quality-selector .vjs-menu-item {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.vjs-quality-selector .vjs-menu-item.vjs-selected {
+  background-color: #2483d5;
+}
+
+.video-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.video-js {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16/9;
+}
